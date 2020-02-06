@@ -1,2 +1,2 @@
-github "mikaoj/BSImageView" ~> 1.0
-github "mikaoj/BSGridCollectionViewLayout" ~> 1.2
+github "kay84/BSImageView" "ios9"
+github "mikaoj/BSGridCollectionViewLayout" == 1.2.2
